@@ -84,6 +84,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: AlaskaCedar_Desktop
       objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 76850e20c92a44c49aea17ff63aa9a29, type: 3}
+      propertyPath: m_LODs.Array.data[0].screenRelativeHeight
+      value: 0.010414274
+      objectReference: {fileID: 0}
+    - target: {fileID: 4742473837712756890, guid: 76850e20c92a44c49aea17ff63aa9a29, type: 3}
+      propertyPath: m_LODs.Array.data[1].screenRelativeHeight
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
